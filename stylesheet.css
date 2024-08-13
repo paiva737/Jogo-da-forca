@@ -43,13 +43,7 @@ button.buttonNewGame {
 	transform: translate(-135px, -90px); 
 }
 
-#keyPressed {
-    transform: translate(0px, -150px); 
-    float: initial;
-    font-size: 2vw;
-	font: italic;	
-	color:white;
-}
+
 
 #category {
 	transform: translate(-10px, -150px); 

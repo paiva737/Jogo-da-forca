@@ -78,7 +78,13 @@ function verificaFimDeJogo(){
         desenhaOlhos();
         exibePalavraInterface("Você Perdeu !!!");
         window.removeEventListener("keypress", retornaLetra);
+        exibePalavraErrada();
+        
     }
+}
+
+function exibePalavraErrada(){
+    exibePalavraInterface(`A palavra era: ${palavraProposta}`)
 }
 
 
