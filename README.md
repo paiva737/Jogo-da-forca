@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse é um projeto da qual eu fiz para me servir como um guia para minhas redes sociais e meu portfólio.
+Esse é um jogo da forca muito legal que programei para ir desenvolvendo minhas habilidades com JS.
 
 
 
